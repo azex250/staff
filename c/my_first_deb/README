@@ -1,0 +1,5 @@
+todo add [m,t,w,th,f,s,su] name duration
+todo list [m,t,w,th,f,s,su]
+todo del [m,t,w,th,f,s,su] name
+todo up [m,t,w,th,f,s,su] name duration
+todo - list of all tasks

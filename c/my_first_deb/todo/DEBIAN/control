@@ -1,0 +1,7 @@
+Source: todo
+Priority: optional
+Package: todo
+Architecture: all
+Version: 0.0.1
+Maintainer: SerjINK
+Description: simple todo list
